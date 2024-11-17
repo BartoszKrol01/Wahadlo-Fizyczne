@@ -1,1 +1,3 @@
 # Wahadlo-Fizyczne
+Pierwszy większy projekt na studia. Aplikacja symuluje zachowanie wahadła fizycznego wraz z wyborem brył, wykresami w funkcji czasu oraz personalizacją parametrów takich jak przyspieszenie grawitacyjne.
+DISCLAIMER - DO NOT COPY FROM - this code is a pure pain...
